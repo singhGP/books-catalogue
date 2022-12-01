@@ -1,0 +1,9 @@
+A small book management project, where one can,
+
+ * Get a book by Id
+ * Add a new book
+ * Update a book
+ * Delete an existing book entry
+ * Get the data for all the regiistrations of the books
+
+ 
